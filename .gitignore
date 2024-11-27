@@ -3,9 +3,9 @@ __pycache__/
 *$py.class
 .Python
 env/
-build/
+# build/  # Allowing build folder
 develop-eggs/
-dist/
+# dist/   # Allowing dist folder
 downloads/
 eggs/
 .eggs/
